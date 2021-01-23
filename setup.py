@@ -16,7 +16,7 @@ setup(
     name='django-db-geventpool',
     version='4.0.0',
     install_requires=[
-        'django>=3.1',
+        'django>=2.2.17',
         'psycogreen>=1.0',
     ],
     url='https://github.com/jneight/django-db-geventpool',
